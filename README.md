@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 I'm Priya Sharma</h1>
 <h3 align="center">An enthusiastic from India</h3>
 <p align="center">
-    <img src="https://octodex.github.com/femalecodertocat/" alt="Nuxtocat" width="400"/>
-</p
+    <img src="https://octodex.github.com/images/femalecodertocat.png" alt="Nuxtocat" width="400"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyasharma2323&label=Profile%20views&color=0e75b6&style=flat" alt="priyasharma2323" /> </p>
 
