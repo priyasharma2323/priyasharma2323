@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Priya Sharma</h1>
 <h3 align="center">An enthusiastic from India</h3>
 <p align="center">
-    <img src="https://octodex.github.com/images/hulatocat.gif" alt="Hulatocat" width="400"/>
+    <img src="https://octodex.github.com/images/hulatocat.png" alt="Hulatocat" width="400"/>
 </p>
 
 
