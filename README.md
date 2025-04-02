@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Priya Sharma</h1>
-<h3 align="center">A Data Scientist from India</h3>
+<h3 align="center">Analyst & A Learner </h3>
 <p align="center">
     <img src="https://octodex.github.com/images/femalecodertocat.png" alt="Nuxtocat" width="400"/>
 </p>
